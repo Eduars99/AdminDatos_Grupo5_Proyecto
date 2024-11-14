@@ -1,0 +1,16 @@
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\bin\Debug\Proyect_Database.exe.config
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\bin\Debug\Proyect_Database.exe
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\bin\Debug\Proyect_Database.pdb
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\bin\Debug\EntityFramework.dll
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\bin\Debug\EntityFramework.xml
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.csproj.AssemblyReference.cache
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.Form1.resources
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.Properties.Resources.resources
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.csproj.GenerateResource.cache
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.csproj.CoreCompileInputs.cache
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.csproj.CopyComplete
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.exe
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.pdb
+C:\Users\seus_\source\repos\Proyect_Database\Proyect_Database\obj\Debug\Proyect_Database.Query.resources
